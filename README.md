@@ -1,4 +1,4 @@
-<hr>Film-Sitesi-Projesi></h1>
+<h1>Film-Sitesi-Projesi></h1>
 
 Html-Css kullanımı için örnek bir projedir.
 
