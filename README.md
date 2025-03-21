@@ -1,4 +1,4 @@
-<h1> 🎬 Film-Sitesi-Projesi (Movie Site Project)></h1>
+<h1> 🎬 Film-Sitesi-Projesi (Movie Site Project) </h1>
 
 
 This is a simple movie site project built with HTML, CSS, and JavaScript. Users can browse popular movies, filter them by category, and create a favorite movie list.
