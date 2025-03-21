@@ -24,6 +24,6 @@ JavaScript – For interactive features
 ✅ Responsive design
 
 
-<h2>Ekran Kaydı</h2>
+<h2>Screenshot</h2>
 
 ![](Film-sitesi.gif)
